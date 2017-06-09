@@ -1,6 +1,7 @@
 {
   "name": "WebCalc",
   "scripts": {
+    "postdeploy": "python seeds.py"
   },
   "env": {
   },
